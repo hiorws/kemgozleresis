@@ -2,7 +2,7 @@
 
 ![kgs icon](img/kem_gozlere_sis.png)
 
-### and updated verison of <https://www.kemgozleresis.org.tr>
+### <https://www.kemgozleresis.org.tr>
 
 
 
