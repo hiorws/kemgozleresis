@@ -20,18 +20,18 @@ HTTPS Everywhere şifresiz bağlantıları henüz bize ulaşmadan tespit edip ol
 Her tarayıcımızda olması gereken bir eklentidir.
 
 * <https://www.eff.org/https-everywhere> adresinden kullandığınız tarayıcıyı gösteren simgeye tıklayın.
-	![](../../../img/https_everywhere_homepage.png)
+	![](../img/https_everywhere_homepage.png)
 * Karşınıza çıkan uyarı mesajını dikkatlice okuyun ve eff.org sitesinden gelen eklentiye güvendiğinizi onaylayın.
-	![](../../../img/https_everywhere_add_to_chrome.png)
+	![](../img/https_everywhere_add_to_chrome.png)
 	
-	![](../../../img/https_everywhere_add_extension.png)
+	![](../img/https_everywhere_add_extension.png)
 * Kurulumu başlatın.
 
 * Tarayıcıyı yeniden başlatın ve eklentinin ikonuna tıklayarak eklentiyi aktif edin.
 	
-	![](../../../img/https_everywhere_icon.png)
+	![](../img/https_everywhere_icon.png)
 	
-	![](../../../img/https_everywhere_activate.png)
+	![](../img/https_everywhere_activate.png)
 
 
 ----
