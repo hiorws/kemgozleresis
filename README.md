@@ -10,7 +10,11 @@
 
 > Julian Assange
 
----
+----
+#### Nedir?
+Bilgi ve iletişim teknolojilerinin şirketler ve devletler tarafından kötüye kullanılması, kullanıcıların bilinçsiz pratikleri kişisel verilerimizin güvenliğini ve mahremiyetimizi tehdit ediyor. Fakat aynı teknoloji çözümleri de beraberinde getiriyor. Bu projenin amacı bizleri gözetleyen "kem gözlerden" korunmak için bazı pratik bilgiler vermek ve bu konuda duyarlı bir topluluk oluşturmaktır.
+
+----
 #### İçerikler
 ---
 
@@ -25,8 +29,7 @@
 
 *En kısa sürede eklenecek.
 
-Bilgi ve iletişim teknolojilerinin şirketler ve devletler tarafından kötüye kullanılması, kullanıcıların bilinçsiz pratikleri kişisel verilerimizin güvenliğini ve mahremiyetimizi tehdit ediyor. Fakat aynı teknoloji çözümleri de beraberinde getiriyor. Bu projenin amacı bizleri gözetleyen "kem gözlerden" korunmak için bazı pratik bilgiler vermek ve bu konuda duyarlı bir topluluk oluşturmaktır.
-
+---
 
 #### Proje Hakkında
 
