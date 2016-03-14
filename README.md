@@ -19,12 +19,19 @@ Bilgi ve iletişim teknolojilerinin şirketler ve devletler tarafından kötüye
 ---
 
 * Mobil
-	* [Android](mobil/browser/android.md)
-	* iOS *
+	* Tor Ağı Kullanımı
+		* [Android](mobil/browser/android.md)
+		* iOS *
+	* Anlık Mesajlaşma
+		* Android *
+		* iOS *
+
 * Masaüstü
-	* Linux *
-	* Mac *
-	* Windows *
+	* Tor Ağı Kullanımı
+		* Linux *
+		* Mac *
+		* Windows *
+	* [Tarayıcı Eklentileri](desktop/eklentiler.md) *
 
 
 *En kısa sürede eklenecek.
