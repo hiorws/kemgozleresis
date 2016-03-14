@@ -1,6 +1,6 @@
 # kem gözlere şiş
 
-![kgs icon](../../../img/kem_gozlere_sis.png)
+![kgs icon](../img/kem_gozlere_sis.png)
 
 ### <https://www.kemgozleresis.org.tr>
 
