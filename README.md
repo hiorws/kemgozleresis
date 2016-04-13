@@ -28,7 +28,7 @@ Bilgi ve iletişim teknolojilerinin şirketler ve devletler tarafından kötüye
 
 * Masaüstü
 	* Tor Ağı Kullanımı
-		* [Linux](desktop/torbrowser.md) *
+		* [Linux](desktop/linux.md) *
 		* Mac *
 		* Windows *
 	* [Tarayıcı Eklentileri](desktop/eklentiler.md) *
