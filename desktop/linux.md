@@ -38,7 +38,7 @@ Yeni gelen ikonu açtığınızda ise `Tor Network Settings` adı altında bir b
 
 ![](../img/torconnect.png)
 
-Bu işlem bittiğinde `Tor` karşınıza aşağıdaki gibi çıkacak ve artık güvenli bir şekilde anonimliğinizi koruyarak internetde dolaşabilecek aynı zamanda sansür ve yaptırımlardan kurtulabileceksiniz.
+Bu işlem bittiğinde `Tor` karşınıza aşağıdaki gibi çıkacak ve artık güvenli bir şekilde anonimliğinizi koruyarak internette dolaşabilecek aynı zamanda sansür ve yaptırımlardan kurtulabileceksiniz.
 
 ![](../img/tormain.png)
 
