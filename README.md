@@ -23,14 +23,14 @@ Bilgi ve iletişim teknolojilerinin şirketler ve devletler tarafından kötüye
 		* [Android](mobil/browser/android.md)
 		* iOS *
 	* Anlık Mesajlaşma
-		* Android *
+		* [Android](mobil/messenger/android.md)
 		* iOS *
 
 * Masaüstü
 	* Tor Ağı Kullanımı
 		* [Linux](desktop/linux.md)
 		* Mac *
-		* Windows *
+		* [Windows](desktop/windows.md)
 	* [Tarayıcı Eklentileri](desktop/eklentiler.md)
 
 
@@ -81,6 +81,3 @@ Bu bir [Alternatif Bilişim Derneği](http://alternatifbilisim.org/) projesidir.
 [Linux Kullanıcıları Derneği](http://www.lkd.org.tr/)
 
 [İnternet Teknolojileri Derneği](http://inetd.org.tr/)
-
-
-
